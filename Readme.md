@@ -1,6 +1,6 @@
-# Newsify - Your Personalized News App
+# RapidNews - Your Personalized News App
 
-Newsify is a React Native mobile application that provides users with a personalized news browsing experience. Leveraging the News API and geolocation services, Newsify delivers news articles tailored to the user's interests and location. Whether you're interested in technology, sports, entertainment, or local news, Newsify has you covered.
+RapidNews is a React Native mobile application that provides users with a personalized news browsing experience. Leveraging the News API and geolocation services, Newsify delivers news articles tailored to the user's interests and location. Whether you're interested in technology, sports, entertainment, or local news, Newsify has you covered.
 
 ## Features
 
@@ -16,13 +16,13 @@ To run Newsify on your local machine, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/yourusername/newsify.git
+git clone https://github.com/codemaniac-sahil/rapid-news.git
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd newsify
+cd rapid-news
 ```
 
 3. Install dependencies:
@@ -46,23 +46,5 @@ npm start
 - News API
 - Geolocation Services
 
-## Contributing
 
-Contributions to Newsify are welcome! To contribute, please follow these steps:
 
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/new-feature`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add new feature'`).
-5. Push to the branch (`git push origin feature/new-feature`).
-6. Create a new Pull Request.
-
-Please ensure that your pull request adheres to the [code of conduct](CODE_OF_CONDUCT.md).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or suggestions, feel free to reach out to us at [contact@newsify.com](mailto:contact@newsify.com). You can also visit our website at [www.newsify.com](https://www.newsify.com) for more information.
